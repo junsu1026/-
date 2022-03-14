@@ -1,0 +1,16 @@
+회원번호 = no
+회원이름 = name
+회원아이디 = id
+회원비밀번호 = password
+회원객체 = user
+
+지역이름 = local_name
+
+날씨객체 = vl
+
+qna게시물번호 = qna_no
+qna게시물제목 = qna_title
+qna게시물내용 = qna_contents
+
+
+
