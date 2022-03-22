@@ -122,4 +122,4 @@
          ㄴ config
             
 #### :file_cabinet: 테이블구조
-<img src="./테이블구조.png">
+![poster](./테이블_구조.PNG)
