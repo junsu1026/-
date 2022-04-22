@@ -49,7 +49,7 @@
   - `해당 지역과의 협업 혹은 광고가능`
 #### :computer: 개발환경
     
-    Server OS : ubuntu
+    Server OS : Linux(ubuntu)
     
     Language : JAVA 1.8
     
